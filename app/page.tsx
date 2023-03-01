@@ -8,7 +8,7 @@ export const metadata = {
 export default function Page() {
   return (
     <>
-      <h1>Hello!!!, Next.js 13 🐾!!!!!!</h1>
+      <h1>Hello🐺, Next.js 13 🐾🐾🐾🐾🐾</h1>
       <Link href="/page1">Page1へ</Link>
     </>
   );
